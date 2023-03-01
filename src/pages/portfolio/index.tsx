@@ -1,11 +1,11 @@
 import { Typography } from '@mui/material'
 
-const Home = () => {
+const Portfolio = () => {
   return (
     <Typography variant='h1' sx={{ color: 'red'}}>
-      Landing page
+      Portfolio
     </Typography>
   )
 }
 
-export default Home;
+export default Portfolio;
